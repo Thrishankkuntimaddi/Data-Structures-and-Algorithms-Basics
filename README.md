@@ -11,13 +11,15 @@ Basics
     05  - Searching 
     06  - Sorting 
     07  - Hashing 
-    08  - String 
-    09  - Linked List 
-    10  - Circular Linked List 
-    11  - Doubly Linked List 
-    12  - Stack 
-    13  - Queue 
-    14  - Deque 
-    15  - Tree 
-    16  - Binary Search Tree 
-    17  - Heap 
+    08  - Set 
+    09  - Dictionary 
+    10  - String (Immutable) 
+    11  - Linked List 
+    12  - Circular Linked List 
+    13  - Doubly Linked List 
+    14  - Stack 
+    15  - Queue 
+    16  - Deque 
+    17  - Tree Data Structures 
+    18  - Binary Search Tree 
+    19  - Binary Heap 
